@@ -47,7 +47,3 @@ Aplikasi web untuk mengelola daftar kontak dengan fitur CRUD menggunakan PHP mur
 ├── logout.php           # Logout
 └── contacts.json        # Database JSON
 ```
-
----
-
-Made by Puan Akeyla
